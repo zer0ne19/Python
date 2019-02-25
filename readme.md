@@ -1,4 +1,4 @@
-#Python
- + copyright 최현규
+# Python
+ + Choi hyeongyu
  + hgchoi@pusan.ac.kr
  
